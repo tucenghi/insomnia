@@ -1,0 +1,29 @@
+_id: req_463cb7ef40ad4a58bf2d9eafb33e07df
+type: Request
+parentId: wrk_7ea0dbf43cdf4972a7d53ce9aae6a23a
+modified: 1683687098654
+created: 1683687035745
+url: "{{ _.users }}/users/login"
+name: users-login
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"email": "kingledion@gmail.com",
+    	"password": "thisismypassword"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1679154284693.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

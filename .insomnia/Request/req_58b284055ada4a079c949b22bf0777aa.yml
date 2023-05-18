@@ -1,0 +1,21 @@
+_id: req_58b284055ada4a079c949b22bf0777aa
+type: Request
+parentId: wrk_7ea0dbf43cdf4972a7d53ce9aae6a23a
+modified: 1679101581560
+created: 1679101518285
+url: "{{ _.goods }}/goods-docs/"
+name: goods-docs
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1679101518285
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

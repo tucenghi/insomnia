@@ -1,0 +1,21 @@
+_id: req_90bcb4dd082c46b3857c328f477cd5e6
+type: Request
+parentId: wrk_7ea0dbf43cdf4972a7d53ce9aae6a23a
+modified: 1679154356781
+created: 1679154331954
+url: "{{ _.users }}/users/test"
+name: users-test
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1679154331954
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

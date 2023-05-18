@@ -1,0 +1,25 @@
+_id: req_bc3d8cd0b6c64b6eb0b46d8948930116
+type: Request
+parentId: wrk_7ea0dbf43cdf4972a7d53ce9aae6a23a
+modified: 1683566319487
+created: 1683566290345
+url: "{{ _.users }}/users/signup"
+name: users-signup
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1679154300447
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

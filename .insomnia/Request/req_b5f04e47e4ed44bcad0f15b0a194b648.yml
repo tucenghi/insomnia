@@ -1,0 +1,21 @@
+_id: req_b5f04e47e4ed44bcad0f15b0a194b648
+type: Request
+parentId: wrk_7ea0dbf43cdf4972a7d53ce9aae6a23a
+modified: 1679154327449
+created: 1679154091821
+url: "{{ _.orders }}/orders/test"
+name: orders-test
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1679154091821
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,21 @@
+_id: req_f2a40116444c43c3afb4a8c399134afc
+type: Request
+parentId: wrk_7ea0dbf43cdf4972a7d53ce9aae6a23a
+modified: 1679533121970
+created: 1679533102964
+url: "{{ _.payments }}/payments-docs/"
+name: payments-docs
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1679533102964
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

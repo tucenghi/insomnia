@@ -1,0 +1,20 @@
+_id: env_8bde755a02a74752b020d813fcde8bb5
+type: Environment
+parentId: env_72e9b521cc58421bbca8267f3f182475
+modified: 1680221222375
+created: 1679101405990
+name: DockerCompose
+data:
+  goods: localhost:9910
+  orders: localhost:9911
+  users: localhost:9912
+  payments: localhost:9913
+dataPropertyOrder:
+  "&":
+    - goods
+    - orders
+    - users
+    - payments
+color: null
+isPrivate: false
+metaSortKey: 1679101405991

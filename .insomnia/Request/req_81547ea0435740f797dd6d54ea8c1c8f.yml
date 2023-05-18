@@ -1,0 +1,22 @@
+_id: req_81547ea0435740f797dd6d54ea8c1c8f
+type: Request
+parentId: wrk_7ea0dbf43cdf4972a7d53ce9aae6a23a
+modified: 1683686806157
+created: 1683686759782
+url: "{{ _.orders }}/orders/report"
+name: orders-report
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication:
+  type: bearer
+metaSortKey: -1679128121501
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

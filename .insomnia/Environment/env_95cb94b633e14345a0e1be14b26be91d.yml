@@ -1,0 +1,20 @@
+_id: env_95cb94b633e14345a0e1be14b26be91d
+type: Environment
+parentId: env_72e9b521cc58421bbca8267f3f182475
+modified: 1682268884386
+created: 1680221206919
+name: Local k8s
+data:
+  goods: localhost
+  orders: localhost
+  users: localhost
+  payments: localhost
+dataPropertyOrder:
+  "&":
+    - goods
+    - orders
+    - users
+    - payments
+color: null
+isPrivate: false
+metaSortKey: 1680221206919

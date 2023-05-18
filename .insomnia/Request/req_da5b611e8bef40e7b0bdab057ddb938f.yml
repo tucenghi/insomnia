@@ -1,0 +1,21 @@
+_id: req_da5b611e8bef40e7b0bdab057ddb938f
+type: Request
+parentId: wrk_7ea0dbf43cdf4972a7d53ce9aae6a23a
+modified: 1679154374230
+created: 1679154359127
+url: "{{ _.users }}/users-docs/"
+name: users-docs
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1679154359127
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

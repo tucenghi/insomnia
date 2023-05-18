@@ -1,0 +1,21 @@
+_id: req_b7ca3ff94620492a92e13c55c8ddb27d
+type: Request
+parentId: wrk_7ea0dbf43cdf4972a7d53ce9aae6a23a
+modified: 1679101515945
+created: 1679101388653
+url: "{{ _.goods }}/goods/test"
+name: goods-test
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1679101388653
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

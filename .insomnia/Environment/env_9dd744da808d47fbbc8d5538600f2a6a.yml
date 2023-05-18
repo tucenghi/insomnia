@@ -1,0 +1,20 @@
+_id: env_9dd744da808d47fbbc8d5538600f2a6a
+type: Environment
+parentId: env_72e9b521cc58421bbca8267f3f182475
+modified: 1683734517920
+created: 1682268885577
+name: Amatlan k8s
+data:
+  goods: 192.168.7.101
+  orders: 192.168.7.101
+  users: 192.168.7.101
+  payments: 192.168.7.101
+dataPropertyOrder:
+  "&":
+    - goods
+    - orders
+    - users
+    - payments
+color: null
+isPrivate: false
+metaSortKey: 1682268885577
